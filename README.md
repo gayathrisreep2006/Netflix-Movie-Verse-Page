@@ -49,12 +49,6 @@ git clone https://github.com/gayathrisreep2006/<repository-name>.git
 
 ---
 
-## 📸 Project Preview
-
-![Netflix Landing Page](Netflix%20Page%20Image.png)
-
----
-
 ## 🎯 Learning Outcomes
 
 - HTML page structure
